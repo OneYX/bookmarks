@@ -1,3 +1,4 @@
+- [explainshell.com - match command-line arguments to their help text](https://explainshell.com/)
 - [osmoscraft/osmosmemo: Turn GitHub into a bookmark manager](https://github.com/osmoscraft/osmosmemo) bookmark manager
 
 # About
